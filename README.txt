@@ -1,2 +1,4 @@
 Elevor360D Home Inventory Manager V1
 Upload the contents of this ZIP to the root of a new GitHub Pages repository. Enable Pages and open the HTTPS address. Open online once before using offline. Copy your existing advertising folder into the app, replacing the empty adverts.json. Supported advert fields include title, image/imageUrl/filename/src, url/link/href/targetUrl. Test your existing advert file before publishing. No sample personal data or adverts are included. Inventory data is local to each browser; export backups regularly. Restore replaces existing records. Print insurance report includes all items. JavaScript syntax checked; live browser/device testing still required.
+
+V1.1: Copy your existing advertising/images folder, including Sunset Banner.png, into advertising/images. The supplied JSON references that image; it is not included.
